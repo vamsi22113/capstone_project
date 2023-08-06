@@ -1,0 +1,353 @@
+#a{
+	height:4100px;
+	width:1000px;
+	background-color:black;
+}
+#b{
+	height:500px;
+	width:1000px;
+	background-color:rgb(50, 25, 84);
+
+}
+#b1{
+	margin-left:500px;
+	margin-top:150px;
+
+}
+#b2{
+	height:200px;
+	width:200px;
+	margin-top:-300px;
+	margin-left:100px;
+}
+#b3{
+	color:white;
+}
+#b4{
+	color:white;
+}
+#b5{
+	width:120px;
+	height:24px;
+	border-radius:40px;
+	background-color:skyblue;
+	color:white;
+	margin-top:-10px;
+	border: 2px;
+
+}
+#c{
+    height:480px;
+	width:1000px;
+	background-color:white;
+	margin-top:100px;
+}
+#c1 {
+	position: relative;
+	top:20px;
+	left:400px;
+    }
+#c2{
+	position: relative;
+	top:15px;
+	left:250px;
+
+}
+#k{
+	margin-top:20px;
+	margin-left:240px;
+}
+
+#d1{
+	height:110px;
+	width:110px;
+	background-color:rgb(3, 190, 252);
+	position: relative;
+	top:-255px;
+	left:500px;
+}
+#d2{
+	height:110px;
+	width:110px;
+	background-color:rgb(121, 5,171);
+	position: relative;
+	top:-363px;
+	left:620px;
+}
+#d3{
+	height:110px;
+	width:110px;
+	background-color:#b200b2;
+	position: relative;
+	top:-354px;
+	left:620px;
+}
+#d4{
+	height:110px;
+	width:110px;
+	background-color:#47008e;
+	position: relative;
+	top:-465px;
+	left:500px;
+
+}
+#d11{
+	color:white;
+}
+#d5{
+	margin-top:-420px;
+	margin-left:0px;
+
+}
+#d6{
+	height:70px;
+	width:100px;
+	color:white;
+	background-color:red;
+	margin-top:-340px;
+	margin-left:700px;
+}
+
+}
+#d7{
+	margin-top:-5px;
+}
+#d8{
+	color:white;
+	margin-left:700px;
+}
+#d9{
+	margin-top:50px;
+	margin-left:0px;
+}
+#d10{
+	margin-top:-350px;
+	margin-left:20px;
+
+}
+#d11{
+	color:skyblue;
+}
+#d12{
+	color:black;
+}
+#d13{
+	width:120px;
+	height:25px;
+	background-color:skyblue;
+	color:white;
+	border:2px;
+	border-radius:40px;
+	margin-left:-60px;
+	margin-top:30px;
+}
+#d14{
+	margin-top:140px;
+	margin-left: ;
+}
+#d15{
+	margin-top:-5px;
+}
+#f1{
+	width:1000px;
+	height:400px;
+	background-color:white;
+	margin-top:-20px;
+}
+#f2{
+	margin-top:40px;
+	margin-left:150px;
+}
+#f3{
+	margin-top:-280px;
+	margin-left:610px;
+	color:black;
+}
+#f5{
+	margin-left:-4px;
+	margin-top:-70px;
+	color:white;
+	border:2px;
+	border-radius:40px;
+	width:100px;
+	height:20px;
+	background-color:skyblue;
+}
+#f6{
+	color:skyblue;
+}
+#g1{
+	width:1000px;
+	height:400px;
+	background-color:rgb(50, 25, 84);
+	margin-top:150px;
+}
+#g2{
+	margin-left:300PX;
+	margin-top:70px;
+}
+#g3{
+	width:300px;
+	height:200px;
+	background-color:white;
+	margin-left:140px;
+	margin-top:-142px;
+}
+#g4{
+	color:violet;
+}
+
+#g6{
+	color:black;
+
+}
+#g5{
+	width:250px;
+	height:150px;
+	margin-left:180px;
+	margin-top:-162px;
+
+}
+#g7{
+	width:1000px;
+	height:200px;
+	background-color:rgb(50, 25, 84);
+}
+#g8{
+	width:300px;
+	height:75px;
+	background-color:white;
+	margin-top:-222px;
+	margin-left:140px;
+}
+#g9{
+	border:2px;
+	border-radius:40px;
+	height:100px;
+	width:160px;
+	background-color: skyblue;
+	color:white;
+	margin-left:100px;
+	margin-top:100px;
+}
+#h1{
+	height:300px;
+	width:1000px;
+	background-color:white;
+	margin-top:180px;
+	margin-left:-140px;
+
+}
+#h2{
+	color:black;
+	font-size:20px;
+	width:100px;
+	height:150px;
+}
+#h3{
+	background-color:blue;
+	width:50px;
+	height:3px;
+}
+#h4{
+	width:500px;
+	height:200px;
+	margin-top:100px;
+	margin-left:100px;
+}
+#i2{
+	color:black;
+	height:100px;
+	width:400px;
+	margin-top:-150PX;
+	margin-left:500PX;
+}
+#i3{
+	margin-left:500px;
+	margin-top:30px;
+	color:white;
+	border:2px;
+	border-radius:40px;
+	width:100px;
+	height:20px;
+	background-color:skyblue;
+}
+#z{
+	width:1000px;
+	height:400px;
+	background-color:rgb(50, 25, 84);
+	margin-top:400px;
+}
+#z1{
+	margin-top:800px;
+	margin-left:350px;
+}
+#x1{
+	height:150px;
+	width:200px;
+	background-color:white;
+	position:relative;
+	left:100px;
+	top:-250px;
+
+}
+#x2{height:150px;
+	width:200px;
+	background-color:white;
+	position:relative;
+	left:400px;
+	top:-400px;
+
+
+}
+#x3{
+	height:150px;
+	width:200px;
+	background-color:white;
+	position:relative;
+	left:700px;
+	top:-550px;
+}
+#x4{
+	position: relative;
+	left:80px;
+	top:20px;
+}
+#x5{
+	color:black;
+}
+#x6{
+	height:150px;
+	width:200px;
+	background-color:white;
+	position:relative;
+	left:700px;
+	top:-550px;
+
+}
+#x7{
+	height:150px;
+	width:200px;
+	background-color:white;
+	position:relative;
+	left:700px;
+	top:-550px;
+}
+#m{
+	color:black;
+}
+#v{
+	height:200px;
+	width:1000px;
+	background-color:pink;
+	margin-top:-500px;
+}
+#v1{ position: relative;
+	left:300px;
+	top:50px;
+}
+#v2{
+	position:relative;
+	left:300px;
+	top:100px;
+}
